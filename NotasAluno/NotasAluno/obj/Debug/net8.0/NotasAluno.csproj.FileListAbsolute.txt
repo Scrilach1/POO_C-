@@ -1,0 +1,15 @@
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.AssemblyInfo.cs
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.sourcelink.json
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.exe
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.deps.json
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.runtimeconfig.json
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.dll
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\bin\Debug\net8.0\NotasAluno.pdb
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.dll
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\refint\NotasAluno.dll
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.pdb
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\NotasAluno.genruntimeconfig.cache
+C:\Users\Diego\source\repos\POO\NotasAluno\NotasAluno\obj\Debug\net8.0\ref\NotasAluno.dll

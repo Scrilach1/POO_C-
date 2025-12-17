@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.AssemblyInfo.cs
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\bin\Debug\net8.0\AtividadesClass.exe
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\bin\Debug\net8.0\AtividadesClass.deps.json
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\bin\Debug\net8.0\AtividadesClass.runtimeconfig.json
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\bin\Debug\net8.0\AtividadesClass.dll
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\bin\Debug\net8.0\AtividadesClass.pdb
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.dll
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\refint\AtividadesClass.dll
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.pdb
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\AtividadesClass.genruntimeconfig.cache
+C:\Users\Diego\source\repos\AtividadesClass\AtividadesClass\obj\Debug\net8.0\ref\AtividadesClass.dll

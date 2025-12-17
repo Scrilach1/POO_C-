@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\POO\\exerciseRetangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E457FD48-3811-48DB-9A65-EED62DEB0E56}|exerciseRetangulo\\exerciseRetangulo.csproj|c:\\users\\diego\\source\\repos\\poo\\exerciseretangulo\\exerciseretangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E457FD48-3811-48DB-9A65-EED62DEB0E56}|exerciseRetangulo\\exerciseRetangulo.csproj|solutionrelative:exerciseretangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\POO\\exerciseRetangulo\\exerciseRetangulo\\Program.cs",
+              "RelativeDocumentMoniker": "exerciseRetangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\POO\\exerciseRetangulo\\exerciseRetangulo\\Program.cs",
+              "RelativeToolTip": "exerciseRetangulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:18:18.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

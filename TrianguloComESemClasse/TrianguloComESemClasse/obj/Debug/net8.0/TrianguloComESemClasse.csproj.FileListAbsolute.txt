@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\bin\Debug\net8.0\TrianguloComESemClasse.exe
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\bin\Debug\net8.0\TrianguloComESemClasse.deps.json
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\bin\Debug\net8.0\TrianguloComESemClasse.runtimeconfig.json
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\bin\Debug\net8.0\TrianguloComESemClasse.dll
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\bin\Debug\net8.0\TrianguloComESemClasse.pdb
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.AssemblyInfo.cs
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.dll
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\refint\TrianguloComESemClasse.dll
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.pdb
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\TrianguloComESemClasse.genruntimeconfig.cache
+C:\Users\Diego\source\repos\TrianguloComESemClasse\TrianguloComESemClasse\obj\Debug\net8.0\ref\TrianguloComESemClasse.dll

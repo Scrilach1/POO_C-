@@ -1,0 +1,15 @@
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\bin\Debug\net8.0\FolhaSalarial.exe
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\bin\Debug\net8.0\FolhaSalarial.deps.json
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\bin\Debug\net8.0\FolhaSalarial.runtimeconfig.json
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\bin\Debug\net8.0\FolhaSalarial.dll
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\bin\Debug\net8.0\FolhaSalarial.pdb
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.AssemblyInfo.cs
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.sourcelink.json
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.dll
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\refint\FolhaSalarial.dll
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.pdb
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\FolhaSalarial.genruntimeconfig.cache
+C:\Users\Diego\source\repos\POO\FolhaSalarial\FolhaSalarial\obj\Debug\net8.0\ref\FolhaSalarial.dll

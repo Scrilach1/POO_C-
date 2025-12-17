@@ -1,0 +1,15 @@
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.AssemblyInfo.cs
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.sourcelink.json
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\bin\Debug\net8.0\exerciseRetangulo.exe
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\bin\Debug\net8.0\exerciseRetangulo.deps.json
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\bin\Debug\net8.0\exerciseRetangulo.runtimeconfig.json
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\bin\Debug\net8.0\exerciseRetangulo.dll
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\bin\Debug\net8.0\exerciseRetangulo.pdb
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.dll
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\refint\exerciseRetangulo.dll
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.pdb
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\exerciseRetangulo.genruntimeconfig.cache
+C:\Users\Diego\source\repos\POO\exerciseRetangulo\exerciseRetangulo\obj\Debug\net8.0\ref\exerciseRetangulo.dll

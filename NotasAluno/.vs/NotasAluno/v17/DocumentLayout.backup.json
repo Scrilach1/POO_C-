@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\POO\\NotasAluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1502929A-6CC4-434F-A10C-E220CE6A3D61}|NotasAluno\\NotasAluno.csproj|c:\\users\\diego\\source\\repos\\poo\\notasaluno\\notasaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1502929A-6CC4-434F-A10C-E220CE6A3D61}|NotasAluno\\NotasAluno.csproj|solutionrelative:notasaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\POO\\NotasAluno\\NotasAluno\\Program.cs",
+              "RelativeDocumentMoniker": "NotasAluno\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\POO\\NotasAluno\\NotasAluno\\Program.cs",
+              "RelativeToolTip": "NotasAluno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:12:10.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
